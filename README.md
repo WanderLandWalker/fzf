@@ -25,6 +25,8 @@
 
 ---
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 fzf is a general-purpose command-line fuzzy finder and an interactive terminal toolkit.
 
 <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width=640>

@@ -6,6 +6,8 @@ Advanced fzf examples
 
 ---
 
+[English](ADVANCED.md) | [简体中文](ADVANCED.zh-CN.md)
+
 <!-- vim-markdown-toc GFM -->
 
 * [Introduction](#introduction)

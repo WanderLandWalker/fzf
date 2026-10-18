@@ -1,6 +1,8 @@
 FZF Vim integration
 ===================
 
+[English](README-VIM.md) | [简体中文](README-VIM.zh-CN.md)
+
 <!-- vim-markdown-toc GFM -->
 
 * [Installation](#installation)

@@ -1,6 +1,8 @@
 Building fzf
 ============
 
+[English](BUILD.md) | [简体中文](BUILD.zh-CN.md)
+
 Build instructions
 ------------------
 
