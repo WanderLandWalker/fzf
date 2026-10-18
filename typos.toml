@@ -9,4 +9,4 @@ ser = "ser"
 Slq = "Slq"
 
 [files]
-extend-exclude = ["README.md", "*.s"]
+extend-exclude = ["README.md", "*.s", "*.zh-CN.md"]
